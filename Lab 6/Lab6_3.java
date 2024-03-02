@@ -81,7 +81,7 @@ public class Lab6_3 {
         
         System.out.println("----- enter the data of member -----");
         System.out.println("Enter the name of member:");
-        String =sc.nextLine();
+        String A=sc.nextLine();
         sc.nextLine();
         System.out.println("Enter the age of member:");
         int B=sc.nextInt();
