@@ -60,7 +60,7 @@ public class Lab6_3 {
     public static void main(String[] args) {
         Manager mc = new Manager("jay",18 , "000000000", "Antilia", 99999999, "CEO");
         mc.printDetails();
-        Employee as = new Employee("rudraraj", 17, "0000000000", "wakaner", 100000, "worker");
+        Employee as = new Employee("rudraraj", 16, "0000000000", "wakaner", 100000, "worker");
         as.printDetails();
     }
 }
