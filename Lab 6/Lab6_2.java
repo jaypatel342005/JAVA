@@ -19,6 +19,7 @@ class BookPublication extends Book {
 
     @Override
     public void display() {
+        System.out.println("authorName and title of BookPublication is : ");
         super.display();
         System.out.println("Title: " + title);
     }
@@ -33,6 +34,7 @@ class PaperPublication extends Book {
 
     @Override
     public void display() {
+        System.out.println("authorName and title of PaperPublication is : ");
         super.display();
         System.out.println("Title: " + title);
     }
@@ -45,8 +47,8 @@ public class Lab6_2 {
         String book =args[1];
 
         for (int i = 1; i < args.length; i += 2) {
-            String publicationType = args[i];
-            String title = args[i + 1];
+            String publicationType = args[i + 1];
+            String title = args[i];
             Book publication;
             if (publicationType.equalsIgnoreCase("book")) {
                 publication = new BookPublication(authorName, title);
@@ -57,7 +59,7 @@ public class Lab6_2 {
                 continue;
             }
             publication.display();
-            System.out.println();
+           
         }
     }
 }
