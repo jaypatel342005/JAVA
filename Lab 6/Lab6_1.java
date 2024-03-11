@@ -24,7 +24,8 @@ class Student {
             System.out.println("enter the credits of subject" + i + 1);
             this.subject_credits[i] = sc.nextInt();
             System.out.println("enter the grade_obtained in  subject" + i + 1);
-            this.grade_obtained[i] = sc.nextLine();
+            Scanner scc = new Scanner(System.in);
+            this.grade_obtained[i] = scc.nextLine();
         }
     }
 
