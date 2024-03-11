@@ -43,8 +43,8 @@ class PaperPublication extends Book {
 public class Lab6_2_2 {
     public static void main(String[] args) {
         System.out.println("enter the book or paper");
-        Scanner sc= new Scanner (System.in);
-        String  n = sc.nextLine();
+        Scanner scc= new Scanner (System.in);
+        String  n = scc.nextLine();
         Book book1 ;
         if (n.equalsIgnoreCase("book")) {
             book1 = new BookPublication("no","no");
