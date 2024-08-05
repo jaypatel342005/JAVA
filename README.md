@@ -147,7 +147,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact:
 
-- **Your Name**
+- **JAY PATEL**
 - **Email**: pateljay97378@gmail.com
 - **GitHub**: [yourusername](https://github.com/jaypatel342005)
 
