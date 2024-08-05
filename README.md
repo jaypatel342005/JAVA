@@ -1,4 +1,3 @@
-Based on the structure in the screenshot, here is an improved README:
 
 # Lab Manual JAVA Solutions
 
@@ -60,7 +59,7 @@ To get started with this repository, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lab-manual-java-solutions.git
+   git clone https://github.com/jaypatel342005/lab-manual-java-solutions.git
    ```
 
 2. **Navigate to the cloned directory:**
