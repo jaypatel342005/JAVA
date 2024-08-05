@@ -113,7 +113,7 @@ Contributions to this repository are highly encouraged! If you have solutions to
 2. **Clone your forked repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lab-manual-java-solutions.git
+   git clone https://github.com/jaypatel342005/lab-manual-java-solutions.git
    ```
 
 3. **Create a new branch:**
