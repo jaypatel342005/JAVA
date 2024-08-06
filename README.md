@@ -148,7 +148,7 @@ For any questions or inquiries, please contact:
 
 - **JAY PATEL**
 - **Email**: pateljay97378@gmail.com
-- **GitHub**: [yourusername](https://github.com/jaypatel342005)
+- **GitHub**: (https://github.com/jaypatel342005)
 
 ---
 
