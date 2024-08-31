@@ -1,7 +1,8 @@
 
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070855-2e1e9180-cc33-11e9-99a3-4b8d1577a4b4.png" alt="JAVA Logo" width="150"/>
+  <img src="./images/java-logo.png" alt="JAVA Logo" width="150"/>
 </p>
 
 <h1 align="center">☕ Lab Manual JAVA Solutions</h1>
@@ -26,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070893-b7ce5f00-cc33-11e9-967e-4a11b3de2a70.png" alt="Lab Manual JAVA Solutions" width="600"/>
+  <img src="./images/lab-manual-java.png" alt="Lab Manual JAVA Solutions" width="600"/>
 </p>
 
 ---
@@ -52,7 +53,7 @@
 Welcome to the **Lab Manual JAVA Solutions** repository! 🌟 This repository is designed to help you master JAVA through a comprehensive collection of lab solutions. Whether you're a student tackling these problems for the first time or a developer looking to refresh your JAVA skills, these solutions are crafted to be educational and accessible.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070929-7a8e8a80-cc34-11e9-8726-90578eb1b2d8.png" alt="Java Learning" width="600"/>
+  <img src="./images/java-learning.png" alt="Java Learning" width="600"/>
 </p>
 
 ---
@@ -60,7 +61,7 @@ Welcome to the **Lab Manual JAVA Solutions** repository! 🌟 This repository is
 ## ✨ Features
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070906-ffc56f00-cc33-11e9-94e8-1b4fa4a6d7c6.png" alt="Features" width="500"/>
+  <img src="./images/features.png" alt="Features" width="500"/>
 </p>
 
 - **📝 Comprehensive Solutions**: Detailed solutions for every problem in the Lab Manual.
@@ -96,7 +97,7 @@ lab-manual-java-solutions/
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070929-7a8e8a80-cc34-11e9-8726-90578eb1b2d8.png" alt="Repository Structure" width="600"/>
+  <img src="./images/repository-structure.png" alt="Repository Structure" width="600"/>
 </p>
 
 ---
@@ -104,7 +105,7 @@ lab-manual-java-solutions/
 ## 💻 Getting Started
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070937-98f48700-cc34-11e9-8472-5e4d66a18d21.png" alt="Getting Started" width="400"/>
+  <img src="./images/getting-started.png" alt="Getting Started" width="400"/>
 </p>
 
 ### 🔧 Prerequisites
@@ -141,7 +142,7 @@ Before diving into the code, ensure you have the following installed:
 ## 🎯 Usage
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070937-98f48700-cc34-11e9-8472-5e4d66a18d21.png" alt="Usage" width="400"/>
+  <img src="./images/usage.png" alt="Usage" width="400"/>
 </p>
 
 ### 🛠️ Compiling and Running JAVA Files
@@ -163,7 +164,7 @@ Before diving into the code, ensure you have the following installed:
 ## 💡 Contributing
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070945-c0e3ea80-cc34-11e9-8e0d-6d479bbf8545.png" alt="Contributing" width="400"/>
+  <img src="./images/contributing.png" alt="Contributing" width="400"/>
 </p>
 
 Contributions are welcome! If you have solutions to new problems, improvements to existing solutions, or any other enhancements, please follow these steps:
@@ -200,7 +201,7 @@ This project is licensed under the [MIT License](LICENSE). 📝
 ## 📞 Contact
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070957-fdb00280-cc34-11e9-87e5-1c8a8ad61b7b.png" alt="Contact" width="400"/>
+  <img src="./images/contact.png" alt="Contact" width="400"/>
 </p>
 
 For any questions or inquiries, please reach out:
@@ -211,11 +212,9 @@ For any questions or inquiries, please reach out:
 
 ---
 ## 🙏 Acknowledgments
-<p align="center"> <img src="https://user-images.githubusercontent.com/51391473/64070961-0bfebe80-cc35-11e9-91a6-b27ef9f2a45e.png" alt="Acknowledgments" width="400"/> </p>
+<p align="center"> <img src="./images/acknowledgments.png" alt="Acknowledgments" width="400"/> </p>
 Thanks to everyone who contributed to this project! 🌟 Special thanks to contributors.
 
 <p align="center">Made with 💻 by <a href="https://github.com/jaypatel342005">Jay Patel</a></p>
-## 🙏 Acknowledgments
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/51391473/64070961-0bfebe80-cc35-11e9-91a6-b27ef
+
