@@ -178,5 +178,5 @@ For any questions or inquiries, please reach out:
 Thanks to everyone who contributed to this project! 🌟 Special thanks to contributors.
 
 <p align="center">Made with 💻 by <a href="https://github.com/jaypatel342005">Jay Patel</a></p>
-```
+
 
