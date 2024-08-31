@@ -5,20 +5,13 @@
   <strong>Your go-to repository for mastering JAVA through comprehensive lab solutions.</strong> 🚀
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/jaypatel342005/lab-manual-java-solutions">
-    <img src="https://img.shields.io/github/v/release/jaypatel342005/lab-manual-java-solutions?color=blue&label=version&style=flat-square" alt="GitHub release"/>
-  </a>
-  <a href="https://github.com/jaypatel342005/lab-manual-java-solutions/issues">
-    <img src="https://img.shields.io/github/issues/jaypatel342005/lab-manual-java-solutions?style=flat-square" alt="GitHub issues"/>
-  </a>
-  <a href="https://github.com/jaypatel342005/lab-manual-java-solutions/pulls">
-    <img src="https://img.shields.io/github/issues-pr/jaypatel342005/lab-manual-java-solutions?style=flat-square" alt="GitHub pull requests"/>
-  </a>
-  <a href="https://github.com/jaypatel342005/lab-manual-java-solutions/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/jaypatel342005/lab-manual-java-solutions?style=flat-square" alt="License"/>
-  </a>
+  <img src="https://img.shields.io/github/license/jaypatel342005/JAVA?style=flat-square" alt="License"/>
+  <img src="https://img.shields.io/github/stars/jaypatel342005/JAVA?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/jaypatel342005/JAVA?style=social" alt="Forks"/>
 </p>
+
 
 ---
 
