@@ -1,10 +1,4 @@
 
-
-
-<p align="center">
-  <img src="./images/java-logo.png" alt="JAVA Logo" width="150"/>
-</p>
-
 <h1 align="center">☕ Lab Manual JAVA Solutions</h1>
 
 <p align="center">
@@ -24,10 +18,6 @@
   <a href="https://github.com/jaypatel342005/lab-manual-java-solutions/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/jaypatel342005/lab-manual-java-solutions?style=flat-square" alt="License"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="./images/lab-manual-java.png" alt="Lab Manual JAVA Solutions" width="600"/>
 </p>
 
 ---
@@ -52,17 +42,9 @@
 
 Welcome to the **Lab Manual JAVA Solutions** repository! 🌟 This repository is designed to help you master JAVA through a comprehensive collection of lab solutions. Whether you're a student tackling these problems for the first time or a developer looking to refresh your JAVA skills, these solutions are crafted to be educational and accessible.
 
-<p align="center">
-  <img src="./images/java-learning.png" alt="Java Learning" width="600"/>
-</p>
-
 ---
 
 ## ✨ Features
-
-<p align="center">
-  <img src="./images/features.png" alt="Features" width="500"/>
-</p>
 
 - **📝 Comprehensive Solutions**: Detailed solutions for every problem in the Lab Manual.
 - **🔍 Well-Documented Code**: Each solution includes thorough comments and explanations.
@@ -94,19 +76,10 @@ lab-manual-java-solutions/
     ├── Lab10_1.java
     ├── Lab10_2.java
     └── ...
-```
-
-<p align="center">
-  <img src="./images/repository-structure.png" alt="Repository Structure" width="600"/>
-</p>
 
 ---
 
 ## 💻 Getting Started
-
-<p align="center">
-  <img src="./images/getting-started.png" alt="Getting Started" width="400"/>
-</p>
 
 ### 🔧 Prerequisites
 
@@ -141,10 +114,6 @@ Before diving into the code, ensure you have the following installed:
 
 ## 🎯 Usage
 
-<p align="center">
-  <img src="./images/usage.png" alt="Usage" width="400"/>
-</p>
-
 ### 🛠️ Compiling and Running JAVA Files
 
 1. **🛠️ Compile the JAVA File**
@@ -162,10 +131,6 @@ Before diving into the code, ensure you have the following installed:
 ---
 
 ## 💡 Contributing
-
-<p align="center">
-  <img src="./images/contributing.png" alt="Contributing" width="400"/>
-</p>
 
 Contributions are welcome! If you have solutions to new problems, improvements to existing solutions, or any other enhancements, please follow these steps:
 
@@ -200,10 +165,6 @@ This project is licensed under the [MIT License](LICENSE). 📝
 
 ## 📞 Contact
 
-<p align="center">
-  <img src="./images/contact.png" alt="Contact" width="400"/>
-</p>
-
 For any questions or inquiries, please reach out:
 
 - **Jay Patel**
@@ -211,10 +172,11 @@ For any questions or inquiries, please reach out:
 - **GitHub**: [https://github.com/jaypatel342005](https://github.com/jaypatel342005)
 
 ---
+
 ## 🙏 Acknowledgments
-<p align="center"> <img src="./images/acknowledgments.png" alt="Acknowledgments" width="400"/> </p>
+
 Thanks to everyone who contributed to this project! 🌟 Special thanks to contributors.
 
 <p align="center">Made with 💻 by <a href="https://github.com/jaypatel342005">Jay Patel</a></p>
-
+```
 
